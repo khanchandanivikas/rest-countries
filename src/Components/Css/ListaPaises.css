@@ -1,0 +1,13 @@
+.my-col {
+    padding: 1rem;
+}
+
+.card {
+    min-height: 410px;
+}
+
+@media screen and (max-width: 1024px) {
+    .card {
+        min-height: 350px;
+    }
+}
